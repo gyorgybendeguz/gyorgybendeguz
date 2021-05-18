@@ -1,0 +1,74 @@
+@charset "utf-8";
+body{
+    height: auto;
+    width: auto;
+    font-size: 12pt;
+    font-family: Times;
+    background-color: lightblue;
+    margin:24px;
+    padding:12px;
+        
+}
+h1{
+    background-color: aquamarine;
+    height:auto;
+    text-align: center;
+    padding:20px;
+}
+h2{
+    font-size: 25pt;
+    
+}
+img.port{
+    height:250px;
+    width:auto;
+}
+img.ref{
+    height:500px;
+    width:auto;
+}
+img.elr{
+    height: auto;
+    width:40%;
+}
+
+#kep{
+    width:auto;
+    height:auto;
+    padding:10px;
+}
+#portre{
+
+}
+#linkek{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    padding:30px;
+}
+#oneletrajztorzs{
+    text-align: left;
+    margin:auto;
+}
+#oneletrajzfejlec{
+    text-align: center;
+    font-size: 18pt;
+    
+}
+#elrendezes{
+    margin:auto;
+    padding:10px;
+    text-align: center;
+}
+button{
+    margin:auto;
+    width:80%;
+    padding:15px;
+    color:black;
+    background-color: whitesmoke;
+    cursor: pointer;
+    
+}
+button:hover {
+    background-color: black;
+    color:white;
+}
